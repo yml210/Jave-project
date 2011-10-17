@@ -1,0 +1,9 @@
+
+Pencil Me In (Extra credit)
+
+Yimin Li
+7/18/01
+
+Known Bugs
+
+The cells are not aligned well at the bottom of the table output. This is caused by the implementation of nested table, which I thought would make the table.html file shorter. 

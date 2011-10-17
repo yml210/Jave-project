@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE schedule SYSTEM "http://www.stanford.edu/class/cs193j/hw1_extra_credit/pencilmein.dtd">
+
+<schedule>
+
+<event name = "CS193J Lecture">
+	<days>
+		<tuesday/>
+		<thursday/>
+	</days>
+	<starttime>4:15pm</starttime>
+	<endtime>6:05pm</endtime>
+</event>
+
+<event name = "Lunch">
+	<days>
+		<monday/>
+		<tuesday/>
+		<wednesday/>
+		<thursday/>
+		<friday/>
+	</days>
+	<starttime>11am</starttime>
+	<endtime>12pm</endtime>
+</event>
+
+<event name = "Ruchika's Office Hours">
+	<days>
+		<thursday/>
+	</days>
+	<starttime>7pm</starttime>
+	<endtime>9pm</endtime>
+</event>
+
+<event name = "Anh's Office Hours">
+	<days>
+		<tuesday/>
+	</days>
+	<starttime>7pm</starttime>
+	<endtime>9pm</endtime>
+</event>
+
+<event name = "Menelaos' Offfice Hours">
+	<days>
+		<tuesday/>
+		<thursday/>
+	</days>
+	<starttime>2:45pm</starttime>
+	<endtime>3:45pm</endtime>
+</event>
+
+<event name = "Final Exam">
+	<date>
+		<month>8</month>
+		<day>18</day>
+		<year>2001</year>
+	</date>
+	<starttime>7pm</starttime>
+	<endtime>9pm</endtime>
+</event>
+
+</schedule>
+

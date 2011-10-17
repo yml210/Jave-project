@@ -1,0 +1,8 @@
+# Summer events
+
+CS193J Lecture;TH;4:15pm;6:05pm
+Lunch;MtWhF;11am;12pm
+Ruchika's Office Hours;H;7pm;9pm
+Anh's Office Hours;T;7pm;9pm
+Menelaos' Office Hours;TH;2:45pm;3:45pm
+Final Exam;8/18/2001;7pm;10pm

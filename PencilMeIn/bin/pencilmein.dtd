@@ -1,0 +1,18 @@
+<!ELEMENT schedule (event*)>
+<!ELEMENT event ((days | date), starttime, endtime)>
+<!ATTLIST event name CDATA #REQUIRED>
+<!ELEMENT days (monday*, tuesday*, wednesday*, thursday*, friday*,
+saturday*, sunday*)>
+<!ELEMENT date (month, day, year)>
+<!ELEMENT starttime (#PCDATA)>
+<!ELEMENT endtime (#PCDATA)>
+<!ELEMENT monday EMPTY>
+<!ELEMENT tuesday EMPTY>
+<!ELEMENT wednesday EMPTY>
+<!ELEMENT thursday EMPTY>
+<!ELEMENT friday EMPTY>
+<!ELEMENT saturday EMPTY>
+<!ELEMENT sunday EMPTY>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
